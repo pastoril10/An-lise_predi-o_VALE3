@@ -1,1 +1,1 @@
-# An-lise_predi-o_VALE3
+# Análise e predição das ações da VALE3
